@@ -2,7 +2,6 @@
 .idea/
 build/
 gradle/
-src/
 gradlew
 gradlew.bat
 api/build/
