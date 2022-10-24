@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+build/
+gradle/
+src/
+gradlew
+gradlew.bat
+api/build/
+db/build/
+service/build/
